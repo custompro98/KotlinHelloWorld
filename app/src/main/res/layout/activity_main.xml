@@ -52,6 +52,7 @@
         android:layout_height="wrap_content"
         android:background="@color/buttonBackground"
         android:layout_marginRight="24dp"
+        android:onClick="randomMe"
         android:text="Random"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintBottom_toBottomOf="parent"
